@@ -18,3 +18,4 @@ After completing the exercise the things I learnt are:
   6) Writing custom key function for sorting
   7) Creating a html file to build the original image and reveal the puzzle
   
+  Note: There are two puzzle log files which are animal_code.google.com and place_code.google.com
