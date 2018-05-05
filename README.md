@@ -1,10 +1,10 @@
 # SolvePuzzle
-It is a Log Puzzle Exercise from Google's Python Class
+It is a Log Puzzle Exercise from Google's Python Class.
 I have been studying Python 2.7 for a while and this exercise is the last one on Google's Python Class. 
 It is about given an apache log file, finding the puzzle urls and downloading the image slices so that at the end using those image slices to create the original image.
 
-Google's Python Class source: https://developers.google.com/edu/python/
-Google's Python Class Log Puzzle Exercise source: https://developers.google.com/edu/python/exercises/log-puzzle
+Google's Python Class source: https://developers.google.com/edu/python/.
+Google's Python Class Log Puzzle Exercise source: https://developers.google.com/edu/python/exercises/log-puzzle.
 
 After completing the exercise the things I learnt are:
   1) Opening and reading a file into a string using os module
